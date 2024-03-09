@@ -1,0 +1,37 @@
+{
+  "keywords": [
+    "Vans",
+    "Nike",
+    "Puma"
+  ],
+  "categories": [
+    "Alışveriş",
+    "Başvuru Kaynakları",
+    "Bilgisayarlar ve Elektronik Ürünler",
+    "Bilim",
+    "Çevrimiçi Topluluklar",
+    "Ev ve Bahçe",
+    "Evcil ve Yabani Hayvanlar",
+    "Finans",
+    "Gayrimenkul",
+    "İşler ve Eğitim",
+    "Kitaplar ve Edebiyat",
+    "Otomobiller ve Araçlar",
+    "Oyunlar",
+    "Sağlık",
+    "Sanat ve Eğlence",
+    "Seyahat",
+    "Spor",
+    "Ticari ve Endüstriyel Hizmetler",
+    "Yiyecek ve İçecek"
+  ],
+  "geo": "TR",
+  "timeframe": "today 1-m",
+  "search_types": [
+    "Google Web Arama",
+    "Google Alışveriş",
+    "Google Haberler Arama",
+    "Görsel Arama",
+    "YouTube Arama"
+  ]
+}
